@@ -37,6 +37,7 @@ import kagglehub
 #Download latest version
 
 path = kagglehub.dataset_download("siddheshera/san-francisco-employee-salary-compensation")
+
 print("Path to dataset files:", path)
 
 Ouvrez le fichier Jupyter Notebook analyse_salaires_heures_supplementaires.ipynb.
