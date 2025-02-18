@@ -29,6 +29,13 @@ Ce projet a pour objectif d'analyser les disparités salariales des employés de
 - **Heures supplémentaires** : Certains métiers comme la police et la santé génèrent plus de revenus grâce aux heures supplémentaires.
 
 ### Exécution
+telecharger le data frame depuis kaggle:
+import kagglehub
+
+#Download latest version
+path = kagglehub.dataset_download("siddheshera/san-francisco-employee-salary-compensation")
+print("Path to dataset files:", path)
+
 Ouvrez le fichier Jupyter Notebook analyse_salaires_heures_supplementaires.ipynb.
 Exécutez les cellules pour effectuer l'analyse des données et visualiser les résultats.
 
