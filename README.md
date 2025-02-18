@@ -15,7 +15,6 @@ Ce projet a pour objectif d'analyser les disparités salariales des employés de
 
 - **Python** avec les bibliothèques :
   - **Pandas** : pour la manipulation des données.
-  - **NumPy** : pour les calculs numériques.
   - **Matplotlib** et **Seaborn** : pour la visualisation des données.
   - **Scikit-learn** : pour la segmentation des employés (clustering).
   - **Scipy** : pour les tests statistiques, notamment le test de Kruskal-Wallis.
